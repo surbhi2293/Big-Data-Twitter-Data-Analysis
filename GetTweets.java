@@ -1,12 +1,5 @@
-/* 
- * Pranjal Patni (pxp142030)
- * Surbhi Mathur (sxm150231)
- * Silpy Jain (sxj152930)
- * Vaidehi Jariwala (vxj150030)
- * @author Pranjal Patni, Surbhi Mathur, Silpy Jain, Vaidehi Jariwala
- * @email-id pxp1420330@utdallas.edu, sxm150231@utdallas.edu, sxj152930@utdallas.edu, vxj150030@utdallas.edu 
+/* Surbhi Mathur (sxm150231)
  * @version 1.0
- * 
  * This project focuses on analyzing twitter feeds and predicting the winner of US Elections 2016, utilizing a big data solution
  */
 package com.utd.bigdata.electionus;
